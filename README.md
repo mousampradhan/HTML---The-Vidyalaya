@@ -1,2 +1,5 @@
-# Sambalpuri-Medium
-This is the place where you can find all the program files of my YouTube channel.
+# The Vidyalaya
+This repository contains source codes of HTML. <br>
+If you want to see the video lecture on these source codes, go to my YouTube channel "The Vidyalaya".
+<be>
+Author: Mousam Pradhan
